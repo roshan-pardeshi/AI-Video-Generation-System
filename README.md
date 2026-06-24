@@ -9,7 +9,7 @@ A simple browser-based app that takes text, topic, or extracted PDF content and 
 3. Paste your content or topic.
 4. Click "Generate Video Plan".
 
-The app outputs a structured plan with:
+The app outputs structured :
 
 - Title and summary
 - 5 scenes with narration, visuals, image prompts, and emotion
